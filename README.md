@@ -28,3 +28,6 @@ Discover $SOCK:
 Website: http://sockcoin.io
 X: http://x.com/sockcoin
 TG: http://t.me/sockmemecoin
+
+![GktntqZW0AAUygF](https://github.com/user-attachments/assets/8799e4b2-515f-4dcd-b682-37a1e40badb0)
+
